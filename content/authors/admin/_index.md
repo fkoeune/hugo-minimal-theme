@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: François
+name_pronunciation: fransua
 
 # Is this the primary user of the site?
 superuser: true
